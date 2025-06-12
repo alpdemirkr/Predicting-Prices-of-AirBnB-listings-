@@ -64,23 +64,3 @@ The dataset includes structured and unstructured information from Airbnb listing
 
 ---
 
-## 📘 Full Notebook
-
-For detailed code, data exploration, and model implementation, see the full notebook:
-
-📎 [`Airbnb Price Prediction.ipynb`](notebooks/Airbnb%20Price%20Prediction.ipynb)
-
----
-
-
-## 📁 Project Structure
-AirbnbPricePrediction/
-├── data/ # Contains dataset summary (no raw CSVs)
-│ └── README.md
-├── notebooks/
-│ └── Airbnb Price Prediction.ipynb
-├── outputs/
-│ ├── figures/ # (optional) Word clouds, price plots, etc.
-│ └── predictions/ # (optional) Sample outputs
-├── .gitignore
-├── README.md
